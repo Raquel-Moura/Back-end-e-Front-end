@@ -4,7 +4,13 @@
 
 Este projeto consiste em uma aplicação que oferece uma tela de cadastro para usuários, com a capacidade de consumir uma API para interagir com o banco de dados. O backend é construído utilizando Node.js e TypeScript, enquanto o frontend é desenvolvido com React, utilizando Vite como bundler, e Tailwind CSS para estilização.
 
-### Backend
+
+
+
+
+<img ![Captura de tela 2024-06-03 172335](https://github.com/Raquel-Moura/Back-end-e-Front-end/assets/111471780/b306df5e-e4f2-4732-b90a-438f0cbc0e38)
+
+
 
 - **Node.js**: É um ambiente de execução JavaScript que permite que você execute JavaScript no servidor. No contexto deste projeto, usamos Node.js para criar o backend da aplicação.
   
