@@ -1,4 +1,4 @@
-# README
+
 
 ## Tela de Cadastro de Usuários com API Consumindo o Banco de Dados
 
@@ -48,3 +48,12 @@ Para executar a aplicação, siga estas etapas:
 Esperamos que este README forneça informações úteis para entender e executar a aplicação com sucesso. Se você tiver alguma dúvida ou problema, sinta-se à vontade para entrar em contato conosco.
 
 **Equipe de Desenvolvimento**
+
+
+- Gabriela Carvalho Gonçalves
+
+
+- Marcelle Palermo
+
+
+- Raquel Cristina Soares Moura
