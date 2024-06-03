@@ -8,7 +8,7 @@ Este projeto consiste em uma aplicação que oferece uma tela de cadastro para u
 
 
 
-<img ![Captura de tela 2024-06-03 172335](https://github.com/Raquel-Moura/Back-end-e-Front-end/assets/111471780/b306df5e-e4f2-4732-b90a-438f0cbc0e38)
+![Captura de tela 2024-06-03 172335](https://github.com/Raquel-Moura/Back-end-e-Front-end/assets/111471780/b306df5e-e4f2-4732-b90a-438f0cbc0e38)
 
 
 
